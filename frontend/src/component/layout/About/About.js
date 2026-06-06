@@ -35,7 +35,7 @@ ideal solution for businesses looking to establish a online presence and cater t
           </div>
           <div className="aboutSectionContainer2">
             <a
-              href="https://github.com/Tushar1223"
+              href="https://github.com/Yatin1805"
               target="blank"
             >
               <GitHubIcon className="instagramSvgIcon" />

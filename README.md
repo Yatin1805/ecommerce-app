@@ -44,7 +44,7 @@ Follow these steps to set up **Eureka** on your local machine:
 
 ### **1️⃣ Clone the Repository**  
 ```bash
-git clone https://github.com/Tushar1223/Eureka-EcommerceApp.git
+git clone https://github.com/Yatin1805/ecommerce-app.git
 cd Eureka-EcommerceApp
 ```
 
@@ -103,15 +103,3 @@ The app should now be running on http://localhost:3000. 🎉
 
 4️⃣ **Track your orders** in your user dashboard.  
 
-
-## 📩 Contact  
-
-📌 **Tushar Sharma**  
-
-🔗 **[LinkedIn](https://www.linkedin.com/in/tushar-sharma003/)**  
-
-🌍 **[Portfolio](https://tushar-porfolio.onrender.com/)**  
-
-📧 **[Email](mailto:tushar007king@gmail.com)**  
-
-📂 **[Project Repository](https://github.com/Tushar1223/Linkup-Social-media-App)**  
